@@ -53,23 +53,22 @@ p {
     margin: 0;
     margin-left: 18%;
 }
+#divMeio {
+    margin-top: 11%;
+    display: flex;    
+}
 #div7 {
     background-color: #ff0000;
     height: 30px;
-    width: 40%;
-    margin-top: 10%;
-    float:inline-start;
+    width: 40%;    
 }
 #div8 {
     background-color: #008b8b;
     height: 30px;
-    width: 20%;
-    float:right;
-    
+    width: 20%;    
 }
 #div9 {
     background-color: #adff2f;
     height: 30px;
-    width: 40%;
-    float: right;
+    width: 40%;   
 }
