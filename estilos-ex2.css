@@ -1,7 +1,7 @@
 #div1 {
     background-color: #dda0dd;
     height: 250px;
-    width: 50%;
+    width: 100%;
     display: flex;
     justify-content: center;
 }
